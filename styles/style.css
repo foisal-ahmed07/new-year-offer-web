@@ -199,3 +199,68 @@ body{
     /* margin-left: 570px; */
     margin-right: 100px;
 }
+
+.offer-container{
+    width: 1320px;
+    height: 500px;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 120px;
+
+}
+
+.left-offer-content{
+    padding-right: 70px;
+    margin-left: 5px;
+}
+.left-offer-content h4{
+    color:rgb(255, 0, 0) ;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+.left-offer-content h1{
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    color: rgb(7, 2, 17);
+}
+
+.left-offer-content p{
+    color:rgba(7, 2, 17, 0.6);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+
+.right-offer-content{
+    padding-left:115px ;
+    margin-top: 110px;
+}
+
+.right-offer-content h1{
+    color: rgb(255, 0, 0);
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+}
+
+.right-offer-content p{
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 40px;
+    
+}
+
+ .Ellipse{
+    border: 15px solid red;
+    border-radius: 50%;
+    padding: 30px;
+}
