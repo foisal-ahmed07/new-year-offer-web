@@ -264,3 +264,66 @@ body{
     border-radius: 50%;
     padding: 30px;
 }
+
+/* holyday section style start */
+
+
+.holyday-sell-container{
+    border: 2px solid red;
+    width: 1320px;
+    height: 986.07px;
+    margin: 0 auto;
+    
+    
+}
+
+.holyday-sell-content h4{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    color: rgb(7, 2, 17);
+    text-align: center;
+}
+.holyday-sell-content .holi-text{
+    color: rgb(255, 0, 0);
+}
+.holyday-sell-content h1{
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 91px;
+    color: rgb(7, 2, 17);
+    text-align: center;
+}
+
+.holyday-sell-content p{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    color: rgba(7, 2, 17, 0.6);
+    text-align: center;
+    padding: 26px 125px 28px 125px;
+}
+
+
+.left-right-image {
+    display: flex;
+
+}
+
+
+.left-side-image{
+    width: 674.82px;
+    height: 577.96px;
+    /* margin-top: 64px; */
+    margin-right: 175px;
+    
+}
+
+
+
+.right-side-image{
+    width: 305.69px;
+    height: 305.69px;
+    margin-top: 140px;
+}
+
