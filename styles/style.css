@@ -372,3 +372,70 @@ body{
 
 /* Subscribe Newsletter section style*/
 
+.Subscribe-Newsletter{
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 616px;
+    margin: 0 auto;
+}
+
+.Newsletter-description img{
+    width: 150px;
+    height: 150px;
+    margin-left: 585px;
+    margin-top: 80px;
+    
+}
+
+.Newsletter-description h1{
+    color: rgb(7, 2, 17);
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    text-align: center;
+    padding: 22px 404px 0px 404px;
+    
+}
+
+.Newsletter-description p{
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    padding: 22px 212px 48px 212px;
+}
+
+.login-btn{
+    display: inline-flex;
+    width: 620px;
+    height: 120px;
+    border-radius: 50px;
+    background: rgb(255, 0, 0);
+    margin-left: 355px;
+    padding: 20px;
+}
+.login-btn input{
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 22px;
+    border: none;
+    background-color:rgb(255, 0, 0); ;
+}
+.subcribe{
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+    
+    
+}
+.subcribe{
+    
+    margin-left: 100px;
+    text-align: center;
+    padding: 25px;
+    
+}
