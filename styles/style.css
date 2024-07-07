@@ -266,64 +266,67 @@ body{
 }
 
 /* holyday section style start */
-
-
-.holyday-sell-container{
-    border: 2px solid red;
+.holyday-sectoin-container{
+    
+    margin: 0 auto;
     width: 1320px;
     height: 986.07px;
-    margin: 0 auto;
-    
-    
+    position: relative;
+    margin-bottom: 120px;
 }
 
-.holyday-sell-content h4{
+.holyday-content h4{
+    color: rgb(7, 2, 17);
     font-size: 24px;
     font-weight: 500;
     line-height: 29px;
-    color: rgb(7, 2, 17);
     text-align: center;
 }
-.holyday-sell-content .holi-text{
-    color: rgb(255, 0, 0);
-}
-.holyday-sell-content h1{
+.holyday-content h1{
     font-size: 72px;
     font-weight: 900;
     line-height: 91px;
-    color: rgb(7, 2, 17);
     text-align: center;
+    color: rgb(7, 2, 17);
 }
-
-.holyday-sell-content p{
+.holyday-content .holi-text{
+    color: rgb(255, 0, 0);
+}
+.holyday-content p{
+    color: rgba(7, 2, 17, 0.6);
     font-size: 20px;
     font-weight: 500;
     line-height: 32px;
-    color: rgba(7, 2, 17, 0.6);
     text-align: center;
-    padding: 26px 125px 28px 125px;
+    padding:  0px 125px;
+    margin-bottom: 64px  ;
 }
 
-
-.left-right-image {
-    display: flex;
-
-}
-
-
-.left-side-image{
-    width: 674.82px;
-    height: 577.96px;
-    /* margin-top: 64px; */
-    margin-right: 175px;
+.solid-color{
+    border-radius: 16px 0px 16px 16px;
+    background: rgb(255, 0, 0);
+    width: 1320px;
+    height: 229px;
+    position: absolute;
+    top: 77%;
     
 }
 
+.left-right-image{
+    display: flex;
 
-
-.right-side-image{
+}
+.gift-box{
+    width: 674.82px;
+    height: 577.96px;
+    position: relative;
+    z-index:1;
+}
+.offer-image{
     width: 305.69px;
     height: 305.69px;
-    margin-top: 140px;
+    margin-top: 100px;
+    margin-right: 170px;
+    margin-bottom: 50px;
+    margin-left: 180px;
 }
-
