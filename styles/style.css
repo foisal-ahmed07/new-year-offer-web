@@ -443,10 +443,11 @@ body{
 /* footer section style start here  */
 .footer-section-container{
     background-color: rgb(7, 2, 17);
-    width: 1600px;
+    width: 1320px;
     height: 609px;
     margin: 0 auto;
     margin-bottom: 100px;
+    border-radius: 10px;
 
 }
 
